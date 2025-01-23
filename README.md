@@ -3,7 +3,7 @@ Hi! I am Sef Adrian T. Milambiling<br><br>I am Knowledgeable and has experience:
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/www.linkedin.com/in/sef-adrian-milambiling) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/www.linkedin.com/in/sef-adrian-milambiling) 
 
 ## Features
 
