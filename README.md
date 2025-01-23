@@ -19,6 +19,6 @@ Hi! I am Sef Adrian T. Milambiling<br><br>I am Knowledgeable and has experience:
 [![](https://visitcount.itsvg.in/api?id=AdrianM756&icon=5&color=5)](https://visitcount.itsvg.in)
 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/AdrianM756/AdrianM756/blob/output/github-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
