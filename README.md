@@ -9,6 +9,8 @@ Hi! I am Sef Adrian T. Milambiling<br><br>I am Knowledgeable and has experience:
 
 [Congratulations to MFI Competitors for winning Gold and Silver Medals at TESDA PAMAMARISAN District Skills Competition last June 28-30, 2022!](https://www.facebook.com/share/p/18XqvCF7VF/)
 
+[Trailblazers Solutions Inc. | Sangfor CC & CG Security Overview](https://www.facebook.com/groups/399032405887242/permalink/445610951229387/)
+
 [T2G Network Team Share Best Practices in #TechTuesday Team Huddle](https://www.t2g.net.ph/t2g-network-team-share-best-practices-in-techtuesday-team-huddle/)
 
 [Day 3 of the TP-Link Omada Certified Network Administrator](https://www.facebook.com/TPLinkOmada.PhilteqEnterpriseInc/posts/-%F0%9D%97%94%F0%9D%97%B9%F0%9D%97%B9-%F0%9D%98%84%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%BD%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%B1-%F0%9D%98%82%F0%9D%97%BD-weve-reached-the-finish-line-day-3-of-the-tp-link-omada-certifie/122165908952299520/)
