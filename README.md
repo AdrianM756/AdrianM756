@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi! I am Sef Adrian T. Milambiling<br><br>I am Knowledgeable and has experience:<br><br>- Working in MSP, and Network operations environment.<br>- In maintaining, configuring and provide support client's network infrastructure, tuning IP radio links for enhance and stable network connectivity while providing response, ensuring that SLAs are achieve.<br>- Working with other network engineers, field engineers, telco partners, and business clients to fulfill network stability as part and role of the Network operations team.<br>- In Configuring, maintained and troubleshoot Desktops, NAS, Windows and Linux Servers, VOIP, Routers, Switches, IP Radios, Virtual Machines, Next-Generation Firewalls, Network Nodes, VPNs, and SD-WAN.<br><br>⚡ Fun fact:<br>In my spare time, he continues to sharpen and develop his knowledge by learning through TryHackMe, Hackthebox, and other online platforms combined with his IT homelab to gained more skills and be up to date to the latest technologies.
 
 
@@ -23,12 +23,12 @@ Hi! I am Sef Adrian T. Milambiling<br><br>I am Knowledgeable and has experience:
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AdrianM756&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdrianM756&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianM756&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AdrianM756&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AdrianM756&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianM756&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AdrianM756&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=AdrianM756&limit=5&theme=radical&hide_border=true_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AdrianM756&icon=5&color=5)](https://visitcount.itsvg.in)
