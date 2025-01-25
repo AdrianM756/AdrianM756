@@ -5,7 +5,7 @@ Hi! I am Sef Adrian T. Milambiling<br><br>I am Knowledgeable and has experience:
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/www.linkedin.com/in/sef-adrian-milambiling) 
 
-## Features
+## Features:
 
 [Congratulations to MFI Competitors for winning Gold and Silver Medals at TESDA PAMAMARISAN District Skills Competition last June 28-30, 2022!](https://www.facebook.com/share/p/18XqvCF7VF/)
 
@@ -27,7 +27,7 @@ Hi! I am Sef Adrian T. Milambiling<br><br>I am Knowledgeable and has experience:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdrianM756&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianM756&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=AdrianM756&limit=5&theme=radical&hide_border=true_all_yearly_contributions=true)
 
 ---
