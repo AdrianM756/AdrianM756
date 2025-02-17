@@ -10,7 +10,7 @@ Hi! I am Sef Adrian T. Milambiling<br><br>I am Knowledgeable and has experience:
 
 # Features:
 ---
-[Congratulations to MFI Competitors for winning Gold and Silver Medals at TESDA PAMAMARISAN District Skills Competition last June 28-30, 2022!](https://www.facebook.com/share/p/18XqvCF7VF/)
+[Congratulations to MFI Competitors for winning Gold and Silver Medals at TESDA PAMAMARISAN District Skills Competition](https://www.facebook.com/share/p/18XqvCF7VF/)
 
 [Trailblazers Solutions Inc. | Sangfor CC & CG Security Overview](https://www.facebook.com/groups/399032405887242/permalink/445610951229387/)
 
