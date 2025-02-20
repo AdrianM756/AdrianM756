@@ -16,6 +16,12 @@ Hi! I am Sef Adrian T. Milambiling<br><br>I am Knowledgeable and has experience:
 
 [T2G Network Team Share Best Practices in #TechTuesday Team Huddle](https://www.t2g.net.ph/t2g-network-team-share-best-practices-in-techtuesday-team-huddle/)
 
+[Happening Now: Day 1 of the 3-Day TP-Link Omada Certified Network Administrator Wireless Training!](https://web.facebook.com/share/p/1RUdeY4RJ3/)
+
+[Happening Now: Day 2 of the 3-Day TP-Link Omada Certified Network Administrator Wireless Training!](https://web.facebook.com/share/p/1956BC2977/)
+
+[Happening Now: Day 3 - The Final Day TP-Link Omada Certified Network Administrator Wireless Training is here!](https://web.facebook.com/share/p/1BEsfm875U/)
+
 [Day 3 of the TP-Link Omada Certified Network Administrator](https://www.facebook.com/TPLinkOmada.PhilteqEnterpriseInc/posts/-%F0%9D%97%94%F0%9D%97%B9%F0%9D%97%B9-%F0%9D%98%84%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%BD%F0%9D%97%BD%F0%9D%97%B2%F0%9D%97%B1-%F0%9D%98%82%F0%9D%97%BD-weve-reached-the-finish-line-day-3-of-the-tp-link-omada-certifie/122165908952299520/)
 
 [Inside Look at Our TP-Link Omada Certified Network Administrator Wireless Training!](https://www.facebook.com/reel/1273745310561616)
