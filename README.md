@@ -32,9 +32,6 @@ Hi! I am Sef Adrian T. Milambiling<br><br>I am Knowledgeable and has experience:
 
 [Meeting and learning from the Global Manager and Sales Engineer of Mimosa, Mr. Jeff Jones.](https://www.linkedin.com/posts/sef-adrian-milambiling_its-great-to-meet-and-learn-from-the-global-activity-7320431217420423168-tuJ2?utm_source=share&utm_medium=member_desktop&rcm=ACoAADR4CZEB5RBzlRj-M9eQ4Z2FgazG6p5_ExY)
 
-[Certificate Of Completion for completing Mimosa Certification Training](https://www.linkedin.com/posts/sef-adrian-milambiling_certificate-of-completion-for-completing-activity-7320733437147971584-AWSx?utm_source=share&utm_medium=member_desktop&rcm=ACoAADR4CZEB5RBzlRj-M9eQ4Z2FgazG6p5_ExY)
-
-
 
 
 # 🛠 Skills:
