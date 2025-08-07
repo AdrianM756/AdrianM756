@@ -1,17 +1,28 @@
 # About Me:
 ---
 <details>
-<summary>Click for more info:</summary>
+<summary>Hi! I am Sef Adrian T. Milambiling. I am Knowledgeable and has experience:</summary>
 <br>
-
-Hi! I am Sef Adrian T. Milambiling<br><br>I am Knowledgeable and has experience:<br><br>• Working in MSP, and Network operations environment.<br><br>• Maintaining, configuring and provide support client's network infrastructure, tuning IP radio links for enhance and stable network connectivity while providing response, ensuring that SLAs are achieve.<br><br>• Working with other system administrators, network engineers, field engineers, telco partners, and business clients to fulfill network stability as part and role of the Network operations team.<br><br>• Configuring, maintained and troubleshoot Desktops, NAS, Windows and Linux Servers, VOIP, Routers, Switches, IP Radios, Virtual Machines, Next-Generation Firewalls, Network Nodes, VPNs, and SD-WAN.<br><br>⚡ Fun fact:<br>In my spare time, he continues to sharpen and develop his knowledge by learning through TryHackMe, Hackthebox, and other online platforms combined with his IT lab to gained more skills and be up to date to the latest technologies.
-
+• Working in MSP, and Network operations environment.
+<br>
+<br>
+• Maintaining, configuring and provide support client's network infrastructure, tuning IP radio links for enhance and stable network connectivity while providing response, ensuring that SLAs are achieve.<br><br>• Working with other system administrators, network engineers, field engineers, telco partners, and business clients to fulfill network stability as part and role of the Network operations team.
+<br>
+<br>
+• Configuring, maintained and troubleshoot Desktops, NAS, Windows and Linux Servers, VOIP, Routers, Switches, IP Radios, Virtual Machines, Next-Generation Firewalls, Network Nodes, VPNs, and SD-WAN.
+<br>
+<br>
+⚡ Fun fact:
+<br>
+In my spare time, he continues to sharpen and develop his knowledge by learning through TryHackMe, Hackthebox, and other online platforms combined with his IT lab to gained more skills and be up to date to the latest technologies.
+<br>
 </details>
+
 
 # 🌐 Socials:
 ---
 <details>
-<summary>Click for more info:</summary>
+<summary>You can reach me on:</summary>
 <br>
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ph.linkedin.com/in/sef-adrian-milambiling)
@@ -77,6 +88,7 @@ Hi! I am Sef Adrian T. Milambiling<br><br>I am Knowledgeable and has experience:
 ![](https://github-contributor-stats.vercel.app/api?username=AdrianM756&limit=5&theme=radical&hide_border=true_all_yearly_contributions=true)
 
 </details>
+
 ---
 
 ![snake gif](https://github.com/AdrianM756/AdrianM756/blob/output/github-snake-dark.svg)
