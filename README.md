@@ -12,10 +12,13 @@
 • Configuring, maintained and troubleshoot Desktops, NAS, Windows and Linux Servers, VOIP, Routers, Switches, IP Radios, Virtual Machines, Next-Generation Firewalls, Network Nodes, VPNs, and SD-WAN.
 <br>
 <br>
-⚡ Fun fact:
+
+<details>
+<Summary>Fun fact:</Summary>
 <br>
 In my spare time, he continues to sharpen and develop his knowledge by learning through TryHackMe, Hackthebox, and other online platforms combined with his IT lab to gained more skills and be up to date to the latest technologies.
 <br>
+</details> 
 </details>
 
 
