@@ -87,13 +87,6 @@ In my spare time, he continues to sharpen and develop his knowledge by learning 
 
 </details>
 
-# 🔝 Top Contributed Repo:
----
-
-![](https://github-contributor-stats.vercel.app/api?username=AdrianM756&limit=5&theme=radical&hide_border=true_all_yearly_contributions=true)
-
-</details>
-
 ---
 
 ![snake gif](https://github.com/AdrianM756/AdrianM756/blob/output/github-snake-dark.svg)
