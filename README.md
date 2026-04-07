@@ -62,6 +62,10 @@ In my spare time, he continues to sharpen and develop his knowledge by learning 
 
 [Huawei eKit Junior Engineer Certification Training held on November 25 -26, 2025.](https://www.linkedin.com/posts/sef-adrian-milambiling_huawei-ekit-junior-engineer-certification-activity-7399677664674119680-iqTp?utm_source=share&utm_medium=member_desktop&rcm=ACoAADR4CZEB5RBzlRj-M9eQ4Z2FgazG6p5_ExY)
 
+[Last week, I attended the 'Cyber Tech and Talk' event organized by Colliers Philippines at KMC Solutions.](https://www.linkedin.com/posts/sef-adrian-milambiling_last-week-i-attended-the-cyber-tech-and-activity-7434432378506342401-SW7W?utm_source=share&utm_medium=member_desktop&rcm=ACoAADR4CZEB5RBzlRj-M9eQ4Z2FgazG6p5_ExY)
+
+[Microsoft Azure Community Night (March 27, 2026)](https://www.linkedin.com/posts/sef-adrian-milambiling_azureph-microsoftazure-techcommunityph-activity-7444218096598573057-fM5E?utm_source=share&utm_medium=member_desktop&rcm=ACoAADR4CZEB5RBzlRj-M9eQ4Z2FgazG6p5_ExY)
+
 </details>
 
 
