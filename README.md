@@ -66,6 +66,8 @@ In my spare time, he continues to sharpen and develop his knowledge by learning 
 
 [Microsoft Azure Community Night (March 27, 2026)](https://www.linkedin.com/posts/sef-adrian-milambiling_azureph-microsoftazure-techcommunityph-activity-7444218096598573057-fM5E?utm_source=share&utm_medium=member_desktop&rcm=ACoAADR4CZEB5RBzlRj-M9eQ4Z2FgazG6p5_ExY)
 
+[Huawei IdeaHub Product Launch 🌐](https://www.linkedin.com/posts/sef-adrian-milambiling_huawei-huaweiideahub-ugcPost-7459595323943014402-XWzK?utm_source=share&utm_medium=member_desktop&rcm=ACoAADR4CZEB5RBzlRj-M9eQ4Z2FgazG6p5_ExY)
+
 </details>
 
 
